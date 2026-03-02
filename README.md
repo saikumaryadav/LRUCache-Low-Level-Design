@@ -15,13 +15,13 @@ We have to do low level design for a Cache system. Cache that we will design wil
 
 **Expectations**
 
-**Code should be functionally correct.
+**Code should be functionally correct.**
 
 
-Code should be modular and readable. Clean and professional level code.
+**Code should be modular and readable. Clean and professional level code.**
 
 
-Code should be extensible and scalable. Means it should be able to accommodate new requirements with minimal changes.
+**Code should be extensible and scalable. Means it should be able to accommodate new requirements with minimal changes.**
 
 
-Code should have good OOPs design.**
+**Code should have good OOPs design.**
